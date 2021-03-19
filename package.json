@@ -1,0 +1,18 @@
+{
+  "name": "sales-receipt",
+  "version": "1.0.0",
+  "description": "Sales receipt automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Malik Webster",
+  "license": "ISC",
+  "dependencies": {
+    "fund": "^1.0.0",
+    "npm-install-missing": "^0.1.4"
+  },
+  "devDependencies": {
+    "cypress": "^6.7.1"
+  }
+}
